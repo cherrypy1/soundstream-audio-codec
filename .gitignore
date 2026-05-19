@@ -1,0 +1,11 @@
+.venv/
+venv/
+
+data/
+checkpoints/
+outputs/
+
+.env
+*.env
+
+.vscode/
