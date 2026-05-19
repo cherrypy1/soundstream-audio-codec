@@ -1,0 +1,11 @@
+torch
+torchaudio
+torchmetrics[audio]
+numpy
+scipy
+soundfile
+tqdm
+matplotlib
+pandas
+comet-ml
+huggingface_hub
